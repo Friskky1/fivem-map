@@ -5,5 +5,3 @@
 
 #### Images of map
 (https://imgur.com/BlY0b1S, https://imgur.com/PCGZwi6)
-
-No support provided
