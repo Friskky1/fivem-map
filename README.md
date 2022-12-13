@@ -8,8 +8,8 @@
 (https://imgur.com/BlY0b1S, https://imgur.com/PCGZwi6)
 
 
-# Hud Issues
-If your having having hud issues. 
+# Hud/Map Issues
+If your having having hud and map flickering issues. 
 #### QB-Hud
 if using QB-Hud go to client.lua and search -- Minimap update (Should be around lin 1017)
 Change this SetRadarZoom(1000) to be SetRadarZoom(1100) And that should fix your problems 
